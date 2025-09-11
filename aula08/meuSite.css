@@ -1,0 +1,56 @@
+header{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+   background-color: #700013;
+    margin-bottom: 80px; 
+    padding: 40px;
+}
+main{
+    max-width: 600px;
+    margin: 0 auto; 
+    background-color: #ffff;
+     padding: 90px; 
+     border-radius: 8px;
+
+}
+body{
+    background-color: #fcdedc;
+
+}
+img{
+    height: 200px;
+}
+h2{
+    color: #700013;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nomes {
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 17px;
+}
+.minhaFoto{
+        border-radius: 360px;
+    
+}
+section{
+    text-align: center;
+}
+
+.meuNome{
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
