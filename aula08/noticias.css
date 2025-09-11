@@ -1,0 +1,30 @@
+
+h2{
+    color: #ad001b;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0 400px;
+}
+img{
+    width: 300px;
+    height:200px;
+    margin: 0 799px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+header{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+   background-color: #700013;
+    margin-bottom: 80px; 
+    padding: 40px;
+}
