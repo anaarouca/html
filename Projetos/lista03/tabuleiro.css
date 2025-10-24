@@ -20,7 +20,7 @@
 .quadrado {
   width: 100px;
   height: 100px;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 
@@ -36,3 +36,9 @@
 .q10 { background-color: orangered; }
 .q11 { background-color: cadetblue; }
 .q12 { background-color: palevioletred; }
+
+.espaco{
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
