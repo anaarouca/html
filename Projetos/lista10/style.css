@@ -1,0 +1,139 @@
+button{
+    width: 160px;
+    height: 90px;
+    border-radius: 360px;
+    margin: 50px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+
+}
+
+p {
+    text-indent: 20px;
+}
+
+header{
+    background-color:purple;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    padding: 5px 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* 1 */
+.botao1{
+    background-color: pink;
+}
+.botao1:hover{
+    background-color: palevioletred;
+    transition: 2s ease-in-out;
+}
+
+/* 2 */
+.botao2{
+    background-color: palevioletred;
+}
+
+.botao2:active{
+    width: 120px;
+    height: 60px;
+}
+
+/* 3 */
+input{
+     margin-left: 80px;
+}
+input:focus {
+    border: 2px solid purple;
+    outline: none;
+    box-shadow: 5px 5px 10px grey;
+   
+}
+
+/* 4 */
+.card{
+    margin-left: 20px;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    background-color: rgb(175, 70, 70);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    scale:0.9;
+    transition: 1s ease-in;
+    font-size: 17px;
+}
+.card:hover {
+    background-color: rgb(190, 94, 94);
+    transform: scale(1.1);
+    box-shadow: 5px 5px 10px gray;
+}
+section{
+    margin-left: 20px;
+}
+
+.lana{
+    width:600px;
+    height:550px;
+}
+
+/* 5 */
+.img5{
+    width: 250px;
+    height: 200px;
+    margin-left: 20px;
+}
+.img5:hover{
+    filter: grayscale(1);
+}
+ 
+
+/* 6 */
+.b1{
+    background-color: gray;
+}
+.b1:hover{
+    background-color: lightblue;
+    transition: 0.3s ease;
+}
+.b1:active{
+     background-color: blue;
+    transform: scale(0.8);
+}
+.b1:focus{
+     border: 3px solid darkblue;
+}
+
+/* 7 */
+.confirmar{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    transition: 0.5s ease;
+    margin: 20px;
+}
+
+.confirmar:hover{
+    background-color: palevioletred;
+}
+.confirmar:active{
+    transform: scale(0.8);
+}
+.forms{
+    margin-left:50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-color: pink;
+   width: 400px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   border-radius: 40px;
+   
+}
